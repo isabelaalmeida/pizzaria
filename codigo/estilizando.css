@@ -1,0 +1,54 @@
+#menu,li{
+	  display: inline;
+}
+.ingredientes{
+	margin-top:180px;
+}
+body{
+	/* background-image: url("/root/trabalho/rosa.jpg"); */
+	background-color:#B22222;
+}
+#menu,img{
+	width:50px;
+	height: 20px;
+	color:white;
+}
+.menu {
+	display: none;
+}
+.menu_pizza{
+		text-align:center;
+
+}
+.formulario{
+  border:solid 2px gray;
+  width:350px;
+  height:300px;
+
+  
+}
+
+
+.tabela{
+	 border:solid 2px gray;
+	 width:350px;
+     height:300px;
+	 float:right;	
+	 margin-top: -297px;
+	 
+}
+.formulario_bebida{
+  border:solid 2px gray;
+  width:350px;
+  height:300px;
+}
+.tabela_bebida{
+	 border:solid 2px gray;
+	 width:350px;
+     height:300px;
+	 float:right;	
+	 margin-top: -297px;
+}
+#table,tr:hover {
+	background-color:#CD5C5C;
+}
